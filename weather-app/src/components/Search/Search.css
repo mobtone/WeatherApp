@@ -1,0 +1,16 @@
+.searchStyle{
+    height:50px;
+    margin-top:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchStyle input{
+    width:300px;
+}
+
+.searchStyle button{
+    margin-left:10px;
+    width: 80px;
+}
