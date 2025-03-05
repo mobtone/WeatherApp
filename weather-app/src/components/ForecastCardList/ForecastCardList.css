@@ -1,0 +1,9 @@
+.forecastContainer{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}

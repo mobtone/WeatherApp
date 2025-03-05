@@ -23,7 +23,6 @@ const Search = ({onSearch}) =>{
                 placeholder ="Skriv en stad"/>
             <button onClick = {handleSearch}>Sök</button>
         </div>
-        <ForecastCardList forecast={weatherList} />
         </>
     );
 }

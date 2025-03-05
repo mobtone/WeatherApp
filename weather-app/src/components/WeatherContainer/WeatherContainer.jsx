@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import Search from '../Search/Search';
 import ForecastCardList from '../ForecastCardList/ForecastCardList';
 import WeatherCard from '../WeatherCard/WeatherCard';
@@ -25,26 +25,5 @@ const handleSearch = (city) => {
         </div>
         </>
 );
-}
+};
     export default WeatherContainer;
-
-
-
-// useEffect(() => {
-//     fetchForecastData = async () => {
-//         const forecast = await getW
-//     }
-
-// })
-
-
-// return (
-// <>
-//     <div>
-//         <Search onSearch={handleSearch} />
-//         <Weathercard weather = {currentWeather} />
-//     </div>
-// </>
-// );
-
-
