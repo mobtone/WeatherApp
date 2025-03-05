@@ -1,0 +1,21 @@
+.weatherCardContainer h2{
+  font-size: 40px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.weatherCardContainer p{
+  font-size: 15px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.weatherCardContainer img{
+  width: 80px;
+  height: auto;
+}
+
+.weatherCardContainer{
+margin: 20px;
+border: solid rgba(210, 208, 208, 0.368);
+padding: 40px;
+background-color: rgba(255, 255, 255, 0.404);
+}

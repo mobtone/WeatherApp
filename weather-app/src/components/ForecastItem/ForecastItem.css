@@ -1,0 +1,21 @@
+
+.forecastCard {
+    border: 2px solid #bbbbbb51;
+    padding: 8px;
+    background-color: #ffffff92 ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: grey;
+}
+
+
+.forecastCard img{
+    width: 70px;
+    height: auto;
+    filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+.dateStyle{
+    font-weight: bold;
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
